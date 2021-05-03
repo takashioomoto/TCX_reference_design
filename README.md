@@ -14,7 +14,8 @@ Reference design and source code for TCX low-cost general purpose computer. More
 
 Current models:
 * TC-3004 (30Mhz Cortex M0+, 16K ROM, 4K RAM, 4K VCore, 1xSoundCortex) - Prototype (v1, v2)
+![image](https://user-images.githubusercontent.com/5050761/116898799-1cb90b80-ac37-11eb-92da-44ba474c4a2c.png)
 
 Future models:
 * TC-3016 (30Mhz Cortex M0+, 64Kb ROM, 16Kb RAM, 8K VCore, 1xSoundCortex) - Production Model (in development)
-* TC-3128 Plus (150Mhz Cortex M0+, 256Kb ROM, 96Kb RAM, 16K VCore, 2xSoundCortex) - Top range model.
+* TC-3128 Plus (150Mhz Cortex M0+, 256Kb ROM, 96Kb RAM, 16K VCore, 2xSoundCortex) - Top range model (early design)
