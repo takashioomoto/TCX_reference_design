@@ -2,7 +2,7 @@
 
 ![tcx_Logo](https://user-images.githubusercontent.com/5050761/117586133-7e391880-b116-11eb-8d28-3e1a7bb58f7f.png)
 
-Reference design and source code for TCX low-cost general purpose computer architecture. More than a one-off computer, it is meant to inspire the creation of other machines based on the same specification. For that purpose, the design and requirements of individual cores are clearly described. This allows not only compatible implementations (for example, emulation or hardware), but also the usage of individual cores on other projects.
+Reference design and source code for TCX low-cost general purpose computer architecture. More than a one-off computer, it is meant to inspire the creation of other machines based on the same specification. For that purpose, the design and requirements of individual cores are clearly described. This allows not only compatible implementations (for example, emulation or reconfigurable hardware), but also the usage of individual cores on other projects.
 
 ## Features
 
