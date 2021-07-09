@@ -25,7 +25,7 @@ Reference design and source code for TCX low-cost general purpose computer archi
 ![TC-3016](https://user-images.githubusercontent.com/5050761/117587784-d88aa700-b11f-11eb-993e-0adb01bb1103.png)
 
 (30Mhz Cortex M0+, 64Kb ROM, 16Kb RAM, 8K VCore, 1xSoundCortex) - Production Model (in development)
-![IMG_20210622_003543](https://user-images.githubusercontent.com/5050761/125082403-77536580-e0c7-11eb-824e-29b9590bc577.jpg)
+![IMG_20210622_003543_2](https://user-images.githubusercontent.com/5050761/125082932-15dfc680-e0c8-11eb-86d3-c47c7e4c6e16.jpg)
 
 
 **TC-3096 Plus (150Mhz Cortex M0+, 256Kb ROM, 96Kb RAM, 16K VCore, 2xSoundCortex)** - Top range model (early design)
